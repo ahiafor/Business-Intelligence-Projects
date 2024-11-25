@@ -1,7 +1,3 @@
-Here’s the polished and properly arranged README with explanations for the DAX measures and an organized structure:
-
----
-
 # **Inventory Requisition Template**
 
 ### **Dashboard Link**  
